@@ -10,3 +10,16 @@ which made it increasingly challenging for regulators to monitor and analyze tra
 The CAT system is intended to provide a comprehensive and efficient means for regulators to track orders throughout their lifecycle and to identify 
 the broker-dealers handling them. This allows for more efficient and accurate tracking of all activity in U.S. equity and options markets, 
 improving the ability to investigate and reconstruct market events.
+
+~~~~~~~~~~
+
+In 2024, there are several changes and new regulations related to the Consolidated Audit Trail (CAT) system. The most notable change is the implementation date 
+for the CAT system, which is set for May 28, 2024. This system is designed to track orders throughout their lifecycle and to identify the broker-dealers handling them, 
+which aids in regulatory oversight and transparency in the U.S. equity and options markets.
+
+Additionally, the SEC has adopted rule changes to shorten the standard settlement cycle for most broker-dealer transactions from two business days after the
+trade date (T+2) to one business day after the trade date (T+1). This change is set to take effect on May 28, 2024, coinciding with the implementation of the CAT system.
+
+The introduction of the CAT system and the shift to a T+1 settlement cycle are significant changes aimed at enhancing regulatory oversight and improving the
+ability to investigate and reconstruct market events, such as market disruptions and potential violations of securities laws and regulations. These changes are expected to 
+provide regulators with more efficient and accurate tracking of all activity in U.S. equity and options markets.
