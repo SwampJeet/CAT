@@ -1,9 +1,12 @@
-The Consolidated Audit Trail (CAT) system was first discussed in the context of the U.S. Securities and Exchange Commission (SEC) in 2010. The SEC adopted Rule 613 under the Securities Exchange Act of 1934, 
-which mandated the creation of the CAT system. The primary goal of the CAT system is to enhance regulatory oversight and improve the ability to investigate and reconstruct market events, such as market disruptions and 
-potential violations of securities laws and regulations. The CAT system is designed to collect and accurately identify every order, cancellation, modification, and trade execution for all exchange-listed equities and options 
+The Consolidated Audit Trail (CAT) system was first discussed in the context of the U.S. Securities and Exchange Commission (SEC) in 2010.
+The SEC adopted Rule 613 under the Securities Exchange Act of 1934, which mandated the creation of the CAT system. The primary goal of the 
+CAT system is to enhance regulatory oversight and improve the ability to investigate and reconstruct market events, such as market disruptions and 
+potential violations of securities laws and regulations. The CAT system is designed to collect and accurately identify every order, cancellation, 
+modification, and trade execution for all exchange-listed equities and options 
 across all U.S. markets.
 
-The national securities exchanges and national securities associations listed under the CAT NMS Plan are responsible for developing, implementing, and maintaining the CAT system. 
+The national securities exchanges and national securities associations listed under the CAT NMS Plan are 
+responsible for developing, implementing, and maintaining the CAT system. 
 This initiative was a response to the growing complexity and interconnectedness of the U.S. securities markets, 
 which made it increasingly challenging for regulators to monitor and analyze trading activity effectively.
 
@@ -23,3 +26,21 @@ trade date (T+2) to one business day after the trade date (T+1). This change is 
 The introduction of the CAT system and the shift to a T+1 settlement cycle are significant changes aimed at enhancing regulatory oversight and improving the
 ability to investigate and reconstruct market events, such as market disruptions and potential violations of securities laws and regulations. These changes are expected to 
 provide regulators with more efficient and accurate tracking of all activity in U.S. equity and options markets.
+
+
+~~~~~~~~~~
+
+The CAIS (Customer and Account Information System) reporting is a component of the Consolidated Audit Trail (CAT) system, 
+which is designed to track orders throughout their lifecycle and to identify the broker-dealers handling them. 
+This system is intended to enhance regulatory oversight and improve the ability to investigate and reconstruct market events, 
+such as market disruptions and potential violations of securities laws and regulations.
+
+On May 24, 2024, the CAIS reporting will reach a new regulatory stage with the implementation of interim reporting 
+obligation number four. This obligation requires all industry members to report to CAIS all of the rejections and have to 
+not only report all of the transactions, but also ensure that the data is good and true. This includes correcting any errors
+within the acceptable window of repair.
+
+The CAIS reporting requirements are part of a broader effort to improve the quality and transparency of 
+retail investors' relationships with investment advisers and broker-dealers, bringing the legal requirements and mandated
+disclosures in line with reasonable investor expectations. This includes enhancing the quality and transparency of trading activity 
+in U.S. equity and options markets, enabling regulators to more efficiently and thoroughly track all trading activity.
